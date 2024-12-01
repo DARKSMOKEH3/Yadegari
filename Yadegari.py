@@ -168,7 +168,7 @@ print ("           TELEGRAM ID -  @U79_9   ")
 print ("                         telegram Channel : @Daniel_ryson")
 = input("1 RO WARD KON: ")
 
-1= ["WAIT", "....
+1= ["WAIT"]
 
 for i in 1:
 
