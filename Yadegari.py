@@ -27,7 +27,7 @@ print (Fore.WHITE + "")
 print(f"{green} ")
 print (Fore.GREEN + "")
 x = """ 
-                         ***In The Name Of MamaD RysoN***"""
+                ***In The Name Of MamaD RysoN***"""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -48,7 +48,7 @@ for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
     time.sleep(0.07)
-print("      ***Khalegh BaX KaizofiL and khalegh leonard &....***")
+print("                    ***Khalegh BaX KaizofiL and khalegh leonard &....***")
 print(f"{green} ")
 print("      Bemand Yadegri Sal 1403 or 2024")
 print (Fore.BLUE + "")
