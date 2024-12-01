@@ -177,7 +177,11 @@ print("")
 print(f"{blue} ")
 time.sleep(3.0)
 print("Wait")
-if up == "1":
+if up != "1":
+        print("""filteri tah nadare 
+        Be EdalaT raftaR kon
+        BashaD YadegaRi az HOSSEIN TORI YA DANIEL RYSON...
+        YA HAGH****....""")
 print(f"{green} ")
 print("....filteri tah nadare ...")
 print(f"{green} ")
