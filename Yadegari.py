@@ -65,8 +65,8 @@ x = """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.2)
-print (Fore.green + "")
+    time.sleep(0.02)
+print (Fore.GREEN + "")
 x = """
                     Be Name Bozorgane refaghat: """
 for c in x:
