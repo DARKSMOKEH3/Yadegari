@@ -26,7 +26,7 @@ print(f"{green} ")
 print (Fore.WHITE + "")
 print(f"{green} ")
 print("                ***In The Name Of MamaD RysoN***")
-print("           God filtering and Cyberi __MMAMD RYSON__")
+print("           God filtering and Cyberi __MAMAD RYSON__")
 print("***************************************************************")
 print(f"{blue} ")
 print("....SCRIPT YADEGARI....")
@@ -40,12 +40,13 @@ print("      ***Khalegh BaX KaizofiL and khalegh leonard &....***")
 print(f"{green} ")
 print("      Bemand Yadegri Sal 1403 or 2024")
 print (Fore.BLUE + "")
-x = """ Loading ~ ~ ~ 
-
-⣿⣿⣿     ⣿      ⣿  
-⣿    ⣿ 
-⣿   ⣿   ⣿ ⣿⣿⣿⣿⣿⣿  ⣿   ⣿
-⣿⣿⣿  ⣿      ⣿ ⣿     ⣿
+x = """ °•°•°•°•°•°•°•°•°•°•°
+     
+⣿⣿⣿     ⣿       ⣿⣿   ⣿  ⣿  ⣿⣿⣿⣿   ⣿
+⣿   ⣿   ⣿ ⣿     ⣿ ⣿  ⣿  ⣿  ⣿       ⣿
+⣿   ⣿  ⣿   ⣿    ⣿  ⣿ ⣿  ⣿  ⣿⣿⣿⣿   ⣿
+⣿   ⣿  ⣿⣿⣿⣿⣿⣿  ⣿   ⣿⣿   ⣿  ⣿      ⣿
+⣿⣿⣿   ⣿       ⣿ ⣿    ⣿   ⣿  ⣿⣿⣿⣿  ⣿⣿⣿⣿⣿
               
 """
 for c in x:
