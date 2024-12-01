@@ -1,5 +1,6 @@
 #python 2.7.15
 print("Load . . .")
+import os
 os.system("pip install colored")
 os.system("pip install colorama")
 os.system("pip install datetime")
