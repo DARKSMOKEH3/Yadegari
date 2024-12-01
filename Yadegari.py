@@ -69,10 +69,12 @@ for c in x:
 
 print(f"{green} ")
 print("Be Name Bozorgane refaghat(..mmd ryson dadash..)")
-time.sleep(0.02)
+time.sleep(0.2)
 print(f"{blue} ")
 print("Walter..Alfader")
+time.sleep(0.2)
 print(f"{green} ")
 print("YasiN AlonE")
+time.sleep(0.2)
 print(f"{pink} ")
 print("mmd terror")
