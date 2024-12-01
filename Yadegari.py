@@ -74,4 +74,9 @@ print("Walter..Alfader")
 print(f"{green} ")
 print("YasiN AlonE")
 print(f"{pink} ")
-print("mmd terror")"""
+print("mmd terror")
+"""
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.02)
