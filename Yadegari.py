@@ -32,7 +32,7 @@ for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
     time.sleep(0.07)
-print("           God filtering and Cyberi __MAMAD RYSON__")
+print("                God filtering and Cyberi __MAMAD RYSON__")
 print("***************************************************************")
 print(f"{blue} ")
 print("....SCRIPT YADEGARI....")
@@ -173,20 +173,25 @@ for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
     time.sleep(0.05)
-print (Fore.BLUE + "")
 print (Fore.YELLOW + "")
 time.sleep(1.7)
 print ("           TELEGRAM ID -  @U79_9   ")
 print ("                         telegram Channel : @Daniel_ryson")
-
+print (Fore.PINK + "")
+x = """ 
+            filteri tah nadare
+            Be EdalaT raftaR kon
+            BashaD YadegaRi az HOSSEIN TORI YA DANIEL RYSON... 
+            YA HAGH"""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
     time.sleep(0.07)
-up = input("       1 ro bezan: ")
-sleep(1.5)
+ 
+up = input(""" 1 Ro bezan""")
+print("")
+print(f"{pink} ")
+time.sleep(1.0)
 print()
-print("      filteri tah nadare")
-print("        Be EdalaT raftaR kon")
-print("       BashaD YadegaRi az HOSSEIN TORI YA DANIEL RYSON...")
-print("       YA HAGH****....")
+if up == "1":
+    os.system("exit 5")
