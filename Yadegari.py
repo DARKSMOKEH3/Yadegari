@@ -184,7 +184,6 @@ for c in x:
     sys.stdout.flush()
     time.sleep(0.07)
 up = input("       1 ro bezan: ")
-in 1:
 sleep(1.5)
 print()
 print("      filteri tah nadare")
