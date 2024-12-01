@@ -183,13 +183,17 @@ for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
     time.sleep(0.07)
-up = input(""" 
-          1 Ro Bezan>>>""")
-print("")
-print(f"{pink} ")
-time.sleep(0.1)
-print("Nokte")
-if up != "1":
+up = input("       1 ro bezan: ")
+
+1= ["Wait"]
+
+for i in 1:
+
+print("\r" + i, end="")
+
+sleep(1.5)
+
+print()
 print("      filteri tah nadare")
 print("        Be EdalaT raftaR kon")
 print("       BashaD YadegaRi az HOSSEIN TORI YA DANIEL RYSON...")
