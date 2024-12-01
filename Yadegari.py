@@ -172,16 +172,21 @@ for c in x:
     sys.stdout.flush()
     time.sleep(0.07)
 up = input(""" 
-1 Ro Bezan>>>""")
+          1 Ro Bezan>>>""")
 print("")
 print(f"{blue} ")
-time.sleep(3.0)
+time.sleep(0.1)
 print("Wait")
 if up != "1":
-        print("""filteri tah nadare 
+    print (Fore.YELLOW + "")
+     x = """filteri tah nadare 
         Be EdalaT raftaR kon
         BashaD YadegaRi az HOSSEIN TORI YA DANIEL RYSON...
-        YA HAGH****....""")
+        YA HAGH****...."""
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.07)
 print(f"{green} ")
 print("....filteri tah nadare ...")
 print(f"{green} ")
