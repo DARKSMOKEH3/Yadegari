@@ -183,6 +183,3 @@ print("""filteri tah nadare
         Be EdalaT raftaR kon
         BashaD YadegaRi az HOSSEIN TORI YA DANIEL RYSON...
         YA HAGH****....""")
-    sys.stdout.write(c)
-    sys.stdout.flush()
-    time.sleep(0.07)
