@@ -28,6 +28,7 @@ print (Fore.WHITE + "")
 
 x = str(datetime.datetime.now())
 print("x")
+print(f"{blue} ")
 print("SCRIPT YADEGARI....")
 print("(...)DanieL RysoN...)")
 print("Bemand Yadegri Sal 1403 or 2024")
