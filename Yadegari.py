@@ -1,6 +1,4 @@
 #python 2.7.15
-print(f"{green} ")
-print("***Be Name MamaD RYsoN***")
 import os
 os.system("pip install colored")
 os.system("pip install colorama")
@@ -26,7 +24,8 @@ os.system("clear")
 print(f"{green} ")
 
 print (Fore.WHITE + "")
-
+print(f"{green} ")
+print("***Be Name MamaD RYsoN***")
 x = str(datetime.datetime.now())
 print("x")
 print(f"{blue} ")
