@@ -186,9 +186,6 @@ for c in x:
 up = input("       1 ro bezan: ")
 
 for i in 1:
-
-print("\r" + i, end="")
-
 sleep(1.5)
 
 print()
