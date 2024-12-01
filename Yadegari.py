@@ -66,17 +66,15 @@ for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
     time.sleep(0.02)
-x = """
+
 print(f"{green} ")
-print("Be Name Bozorgane refaghat(*"mmd ryson dadash**)")
+print("Be Name Bozorgane refaghat(..mmd ryson dadash..)")
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.02)
 print(f"{blue} ")
 print("Walter..Alfader")
 print(f"{green} ")
 print("YasiN AlonE")
 print(f"{pink} ")
 print("mmd terror")
-"""
-for c in x:
-    sys.stdout.write(c)
-    sys.stdout.flush()
-    time.sleep(0.02)
