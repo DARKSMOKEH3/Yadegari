@@ -81,16 +81,16 @@ x = """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.09)
+    time.sleep(0.07)
 
 
-print (Fore.RED + "")
+print (Fore.BLUE + "")
 x = """
                       **....MmD JenA....**     """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.09)
+    time.sleep(0.07)
 
 
 print (Fore.GREEN + "")
@@ -99,56 +99,92 @@ x = """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.09)
+    time.sleep(0.07)
  
      
-print (Fore.BLUE + "")
+print (Fore.GREEN + "")
 x = """ 
                          *....MmD TerroR....*"""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.09)
+    time.sleep(0.07)
 
 
-print (Fore.GREEN + "")
+print (Fore.RED + "")
 x = """ 
                          ....YasiN AlonE...."""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.09)
+    time.sleep(0.07)
 
 
-print (Fore.GREEN + "")
+print (Fore.RED + "")
 x = """ 
                          ....MamaD Entehari...."""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.09)
+    time.sleep(0.07)
 
 
-print (Fore.RED + "")
+print (Fore.YELLOW + "")
 x = """ 
                          ....MeysaM TokiyO...."""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.09)
+    time.sleep(0.07)
 
 
-print (Fore.RED + "")
+print (Fore.YELLOW + "")
 x = """ 
                           ....MG KhataR...."""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.02)
+    time.sleep(0.07)
 print (Fore.BLUE + "")
 x = """ 
-                         ....BaX KaizofiL va Doosatn...."""
+                         ....Gost Black Report...."""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.09)
+    time.sleep(0.07)
+
+
+print (Fore.RED + "")
+x = """ 
+                          ....Bax KaizofiL va Baghie Doostan...."""
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.05)
+print (Fore.BLUE + "")
+print (Fore.YELLOW + "")
+time.sleep(1.7)
+print ("           TELEGRAM ID -  @U79_9   ")
+print ("                         telegram Channel : @Daniel_ryson")
+= input("1 RO WARD KON: ")
+
+1= ["WAIT", "....
+
+for i in 1:
+
+print("\r" + i, end="")
+
+sleep(1.5)
+
+print()
+
+print (Fore.GREEN + "")
+x = """ 
+                          ....filteri tah nadare ...
+                          Be EdalaT raftaR kon 
+                          BashaD YadegaRi az HOSSEIN TORI YA DANIEL RYSON...
+                          YA HAGH****...."""
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.07)
