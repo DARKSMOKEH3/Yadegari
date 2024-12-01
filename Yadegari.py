@@ -1,5 +1,6 @@
 #python 2.7.15
-print("Load . . .")
+print(f"{green} ")
+print("***Be Name MamaD RYsoN***")
 import os
 os.system("pip install colored")
 os.system("pip install colorama")
@@ -30,6 +31,8 @@ x = str(datetime.datetime.now())
 print("x")
 print(f"{blue} ")
 print("SCRIPT YADEGARI....")
-print("(...)DanieL RysoN...)")
+print("(...DanieL RysoN...)
+Khalegh BaX KaizofiL and khalegh leonard &....")
 print("Bemand Yadegri Sal 1403 or 2024")
-
+print(f"{red} ")
+print("GoD klr")
