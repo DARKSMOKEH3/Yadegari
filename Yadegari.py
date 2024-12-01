@@ -190,7 +190,6 @@ print(f"{pink} ")
 time.sleep(0.1)
 print("Nokte")
 if up != "1":
-
 print("""   filteri tah nadare 
         Be EdalaT raftaR kon
         BashaD YadegaRi az HOSSEIN TORI YA DANIEL RYSON...
