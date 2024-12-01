@@ -183,15 +183,6 @@ print("""filteri tah nadare
         Be EdalaT raftaR kon
         BashaD YadegaRi az HOSSEIN TORI YA DANIEL RYSON...
         YA HAGH****....""")
-for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
     time.sleep(0.07)
-print(f"{green} ")
-print("....filteri tah nadare ...")
-print(f"{green} ")
-print("Be EdalaT raftaR kon")
-print(f"{green} ")
-print("BashaD YadegaRi az HOSSEIN TORI YA DANIEL RYSON...")
-print(f"{green} ")
-print("YA HAGH****.... ")
