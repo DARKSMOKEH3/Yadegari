@@ -1,6 +1,5 @@
 #python 2.7.15
-x = str(datetime.datetime.now())
-print("started " + (x))
+# GoD FilterinG
 print("SCRIPT YADEGARI....")
 print("(...DanieL RysoN...)")
 print("Bemand Yadegri Sal 1403 or 2024")
