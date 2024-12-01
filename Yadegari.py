@@ -25,15 +25,15 @@ print(f"{green} ")
 
 print (Fore.WHITE + "")
 print(f"{green} ")
-print("***Be Name MamaD RysoN***
-God filtering and Cyberi")
+print("***In The Name Of MamaD RysoN***God filtering and Cyberi")
 x = str(datetime.datetime.now())
 print("x")
 print(f"{blue} ")
 print("....SCRIPT YADEGARI....")
 print(f"{red} ")
-print("(...DanieL RysoN...) ...
-Khalegh BaX KaizofiL and khalegh leonard &....")
-print("Bemand Yadegri Sal 1403 or 2024")
-print(f"{red} ")
 print("GoD klr")
+print(f"{red} ")
+print("(...DanieL RysoN...)")
+print("***Khalegh BaX KaizofiL and khalegh leonard &....***")
+print("Bemand Yadegri Sal 1403 or 2024")
+
