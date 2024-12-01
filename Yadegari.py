@@ -25,7 +25,13 @@ print(f"{green} ")
 
 print (Fore.WHITE + "")
 print(f"{green} ")
-print("                ***In The Name Of MamaD RysoN***")
+print (Fore.GREEN + "")
+x = """ 
+                         ***In The Name Of MamaD RysoN***"""
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.07)
 print("           God filtering and Cyberi __MAMAD RYSON__")
 print("***************************************************************")
 print(f"{blue} ")
@@ -35,7 +41,13 @@ print("           GoD klr")
 print(f"{red} ")
 print("          i Am")
 print(f"{blue} ")
-print("     (...DanieL RysoN...)")
+print (Fore.BLUE + "")
+x = """ 
+                         (...DanieL RysoN...)"""
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.07)
 print("      ***Khalegh BaX KaizofiL and khalegh leonard &....***")
 print(f"{green} ")
 print("      Bemand Yadegri Sal 1403 or 2024")
@@ -174,12 +186,12 @@ for c in x:
 up = input(""" 
           1 Ro Bezan>>>""")
 print("")
-print(f"{blue} ")
+print(f"{pink} ")
 time.sleep(0.1)
-print("Wait")
+print("Nokte")
 if up != "1":
-    print (Fore.YELLOW + "")
-print("""filteri tah nadare 
+
+print("""   filteri tah nadare 
         Be EdalaT raftaR kon
         BashaD YadegaRi az HOSSEIN TORI YA DANIEL RYSON...
         YA HAGH****....""")
