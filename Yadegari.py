@@ -59,8 +59,8 @@ x = """
           ⣿⣿⣿⣿    ⣿    ⣿   ⣿⣿⣿⣿    ⣿⣿⣿⣿   ⣿⣿   ⣿       
   ⣸⣇      ⣿   ⣿    ⣿   ⣿   ⣿       ⣿  ⣿   ⣿ ⣿  ⣿
 ⠙⢿⣿⣿⡿⠋    ⣿⣿⣿⣿⣿     ⣿ ⣿    ⣿⣿⣿⣿    ⣿  ⣿   ⣿  ⣿ ⣿
-⠀⣼⠟⠻⣧     ⣿    ⣿    ⣿         ⣿    ⣿  ⣿   ⣿   ⣿⣿
-⠀⠀⠀⠀⠀⠀    ⣿    ⣿   ⣿       ⣿⣿⣿⣿    ⣿⣿⣿⣿   ⣿    ⣿
+⠀⣼⠟⠻⣧     ⣿   ⣿     ⣿         ⣿    ⣿  ⣿   ⣿   ⣿⣿
+⠀⠀⠀⠀⠀⠀    ⣿   ⣿    ⣿       ⣿⣿⣿⣿    ⣿⣿⣿⣿   ⣿    ⣿
 """
 for c in x:
     sys.stdout.write(c)
@@ -80,4 +80,4 @@ print(f"{green} ")
 print("YasiN AlonE")
 time.sleep(0.2)
 print(f"{pink} ")
-print("mmd terror")
+print("mmd terror") """
