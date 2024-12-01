@@ -185,8 +185,6 @@ for c in x:
     time.sleep(0.07)
 up = input("       1 ro bezan: ")
 
-1= ["Wait"]
-
 for i in 1:
 
 print("\r" + i, end="")
