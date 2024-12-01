@@ -166,25 +166,23 @@ print (Fore.YELLOW + "")
 time.sleep(1.7)
 print ("           TELEGRAM ID -  @U79_9   ")
 print ("                         telegram Channel : @Daniel_ryson")
-= input("1 RO WARD KON: ")
 
-1= ["WAIT"]
-
-for i in 1:
-
-print("\r" + i, end="")
-
-sleep(1.5)
-
-print()
-
-print (Fore.GREEN + "")
-x = """ 
-                          ....filteri tah nadare ...
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.07)
+up = input(""" 
+1 Ro Bezan>>>""")
+print("")
+print(f"{blue} ")
+time.sleep(3.0)
+print("Wait")
+if up == "1":
+x = """ ....filteri tah nadare ...
                           Be EdalaT raftaR kon 
                           BashaD YadegaRi az HOSSEIN TORI YA DANIEL RYSON...
-                          YA HAGH****...."""
-for c in x:
+                          YA HAGH****.... """
+     for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
     time.sleep(0.07)
