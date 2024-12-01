@@ -68,16 +68,8 @@ for c in x:
     time.sleep(0.02)
 print (Fore.BLUE + "")
 x = """
-*Be Name Bozorgane refaghat(..mmd ryson dadash..)*
+*Be Name Bozorgane refaghat(..mmd ryson dadash..)* """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
     time.sleep(0.02)
-print(f"{blue} ")
-print("Walter..Alfader")
-time.sleep(0.2)
-print(f"{green} ")
-print("YasiN AlonE")
-time.sleep(0.2)
-print(f"{pink} ")
-print("mmd terror") """
