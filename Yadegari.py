@@ -80,9 +80,16 @@ for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
     time.sleep(0.2)
-     print (Fore.RED + "")
+print (Fore.RED + """)
 x = """
-                          ....MmD JenA.... """
+                          ....MmD JenA....     """
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.2)
+print (Fore.RED + """)
+x = """ 
+hjghh"""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
