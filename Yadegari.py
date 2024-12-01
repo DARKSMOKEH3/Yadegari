@@ -65,11 +65,25 @@ x = """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.02)
-print (Fore.BLUE + "")
+    time.sleep(0.2)
+print (Fore.green + "")
 x = """
-*Be Name Bozorgane refaghat(..mmd ryson dadash..)* """
+                    Be Name Bozorgane refaghat: """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.02)
+    time.sleep(0.2)
+print (Fore.BLUE + "")
+x = """
+                        ....MamaD RysoN....       """
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.2)
+     print (Fore.RED + "")
+x = """
+                          ....MmD JenA.... """
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.2)
