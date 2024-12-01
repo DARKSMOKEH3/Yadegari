@@ -42,14 +42,29 @@ print("      Bemand Yadegri Sal 1403 or 2024")
 print (Fore.BLUE + "")
 x = """ °•°•°•°•°•°•°•°•°•°•°
      
-                   ⣿⣿⣿    ⣿⣿     ⣿⣿   ⣿  ⣿  ⣿⣿⣿⣿   ⣿
+                   ⣿⣿⣿⠻   ⣿⣿     ⣿⣿   ⣿  ⣿  ⣿⣿⣿⣿   ⣿
                    ⣿   ⣿  ⣿ ⣿    ⣿ ⣿  ⣿  ⣿  ⣿      ⣿
                    ⣿   ⣿  ⣿  ⣿   ⣿  ⣿ ⣿  ⣿  ⣿⣿⣿⣿   ⣿
                    ⣿   ⣿  ⣿⣿⣿⣿⣿  ⣿   ⣿⣿  ⣿  ⣿      ⣿
-                   ⣿⣿⣿    ⣿    ⣿ ⣿    ⣿  ⣿  ⣿⣿⣿⣿   ⣿⣿⣿⣿⣿
+                   ⣿⣿⣿⣼   ⣿    ⣿ ⣿    ⣿  ⣿  ⣿⣿⣿⣿   ⣿⣿⣿⣿⣿
               
 """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
     time.sleep(0.02)
+
+print (Fore.RED + "")
+x = """
+          ⣿⣿⣿⣿⣿     ⣿    ⣿ ⣿⣿⣿⣿   ⣿⣿⣿⣿   ⣿⣿    ⣿       
+  ⣸⣇      ⣿    ⣿     ⣿   ⣿ ⣿      ⣿    ⣿  ⣿ ⣿    ⣿
+⠙⢿⣿⣿⡿⠋    ⣿⣿⣿⣿⣿      ⣿ ⣿  ⣿⣿⣿⣿  ⣿    ⣿   ⣿  ⣿  ⣿
+⠀⣼⠟⠻⣧     ⣿     ⣿     ⣿        ⣿  ⣿    ⣿  ⣿    ⣿⣿
+⠀⠀⠀⠀⠀⠀    ⣿⣿    ⣿⣿   ⣿    ⣿⣿⣿⣿⣿   ⣿⣿⣿⣿   ⣿     ⣿
+"""
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.02)
+⠀⠀⠀⠀⠀⠀⠀              
+
