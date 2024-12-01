@@ -66,10 +66,13 @@ for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
     time.sleep(0.02)
-
-print(f"{green} ")
-print("Be Name Bozorgane refaghat(..mmd ryson dadash..)")
-time.sleep(0.2)
+print (Fore.BLUE + "")
+x = """
+*Be Name Bozorgane refaghat(..mmd ryson dadash..)*
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.02)
 print(f"{blue} ")
 print("Walter..Alfader")
 time.sleep(0.2)
