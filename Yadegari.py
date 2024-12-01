@@ -73,24 +73,82 @@ for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
     time.sleep(0.2)
+
+
 print (Fore.BLUE + "")
 x = """
-                        ....MamaD RysoN....       """
+                    ***\\....MamaD RysoN....//***       """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.2)
+    time.sleep(0.09)
+
+
 print (Fore.RED + "")
 x = """
-                          ....MmD JenA....     """
+                      **....MmD JenA....**     """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.2)
+    time.sleep(0.09)
+
+
+print (Fore.GREEN + "")
+x = """ 
+                       **....WalteR AlfadeR**"""
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.09)
+ 
+     
+print (Fore.BLUE + "")
+x = """ 
+                         *....MmD TerroR....*"""
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.09)
+
+
+print (Fore.GREEN + "")
+x = """ 
+                         ....YasiN AlonE...."""
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.09)
+
+
+print (Fore.GREEN + "")
+x = """ 
+                         ....MamaD Entehari...."""
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.09)
+
+
 print (Fore.RED + "")
 x = """ 
-hjghh"""
+                         ....MeysaM TokiyO...."""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.2)
+    time.sleep(0.09)
+
+
+print (Fore.RED + "")
+x = """ 
+                          ....MG KhataR...."""
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.02)
+print (Fore.BLUE + "")
+x = """ 
+                         ....BaX KaizofiL va Doosatn...."""
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.09)
