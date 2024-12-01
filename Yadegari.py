@@ -25,22 +25,15 @@ print(f"{green} ")
 
 print (Fore.WHITE + "")
 print(f"{green} ")
-print("***Be Name MamaD RYsoN***")
+print("***Be Name MamaD RysoN***
+God filtering and Cyberi")
 x = str(datetime.datetime.now())
 print("x")
 print(f"{blue} ")
 print("....SCRIPT YADEGARI....")
 print(f"{red} ")
-x = """ Loading ~ ~ ~ 
-"""
-for c in x:
-    sys.stdout.write(c)
-    sys.stdout.flush()
-    time.sleep(0.02)
-
-print(f"{red} ")
-d = ("""(...DanieL RysoN...) ...
-Khalegh BaX KaizofiL and khalegh leonard &....""")
+print("(...DanieL RysoN...) ...
+Khalegh BaX KaizofiL and khalegh leonard &....")
 print("Bemand Yadegri Sal 1403 or 2024")
 print(f"{red} ")
 print("GoD klr")
