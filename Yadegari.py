@@ -179,10 +179,10 @@ time.sleep(0.1)
 print("Wait")
 if up != "1":
     print (Fore.YELLOW + "")
-     x = """filteri tah nadare 
+print("""filteri tah nadare 
         Be EdalaT raftaR kon
         BashaD YadegaRi az HOSSEIN TORI YA DANIEL RYSON...
-        YA HAGH****...."""
+        YA HAGH****....""")
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
