@@ -37,3 +37,7 @@ x = """
            *   
        .<script.Yadegari>.
      ∅I live in the city of Tabriz∅ """
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.02)
