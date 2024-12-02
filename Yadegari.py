@@ -177,7 +177,7 @@ print (Fore.YELLOW + "")
 time.sleep(1.7)
 print ("           TELEGRAM ID -  @U79_9   ")
 print ("                         telegram Channel : @Daniel_ryson")
-print (Fore.RED + "")
+print (Fore.BLUE + "")
 x = """ 
             filteri tah nadare
             Be EdalaT raftaR kon
