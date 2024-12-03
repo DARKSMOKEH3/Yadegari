@@ -59,7 +59,7 @@ x = """ °•°•°•°•°•°•°•°•°•°•°
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.02)
+    time.sleep(0.01)
 
 print (Fore.RED + "")
 x = """
@@ -72,7 +72,7 @@ x = """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.02)
+    time.sleep(0.01)
 print (Fore.GREEN + "")
 x = """
                     Be Name Bozorgane refaghat: """
@@ -88,7 +88,7 @@ x = """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.07)
+    time.sleep(0.05)
 
 print (Fore.BLUE + "")
 x = """
@@ -96,7 +96,7 @@ x = """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.07)
+    time.sleep(0.05)
 
 print (Fore.BLUE + "")
 x = """
@@ -104,7 +104,7 @@ x = """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.07)
+    time.sleep(0.05)
 
 
 print (Fore.GREEN + "")
@@ -113,7 +113,7 @@ x = """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.07)
+    time.sleep(0.05)
  
      
 print (Fore.GREEN + "")
@@ -122,7 +122,7 @@ x = """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.07)
+    time.sleep(0.05)
 
 
 print (Fore.RED + "")
@@ -131,7 +131,7 @@ x = """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.07)
+    time.sleep(0.05)
 
 
 print (Fore.RED + "")
@@ -140,7 +140,7 @@ x = """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.07)
+    time.sleep(0.05)
 
 
 print (Fore.YELLOW + "")
@@ -149,7 +149,7 @@ x = """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.07)
+    time.sleep(0.05)
 
 
 print (Fore.YELLOW + "")
@@ -158,14 +158,14 @@ x = """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.07)
+    time.sleep(0.05)
 print (Fore.BLUE + "")
 x = """ 
                       ....Gost Black Report...."""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.07)
+    time.sleep(0.05)
 
 
 print (Fore.RED + "")
@@ -181,7 +181,7 @@ print ("           TELEGRAM ID -  @U79_9   ")
 print ("                         telegram Channel : @Daniel_ryson")
 print (Fore.BLUE + "")
 x = """ 
-            filteri tah nadare
+        ****filteri tah nadare
             Be EdalaT raftaR kon
             BashaD YadegaRi az HOSSEIN TORI YA DANIEL RYSON... 
             YA HAGH"""
@@ -190,7 +190,8 @@ for c in x:
     sys.stdout.flush()
     time.sleep(0.07)
  
-up = input(""" 1 Ro bezan""")
+up = input(""" 
+»»»» (1) Ro bezan : »» """)
 print("")
 print(f"{pink} ")
 time.sleep(1.0)
