@@ -42,7 +42,7 @@ x = """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.07)
+    time.sleep(0.1)
 print("                    ***Khalegh BaX KaizofiL and khalegh leonard &....***")
 print(f"{green} ")
 print("      Bemand Yadegri Sal 1403 or 2024")
@@ -84,7 +84,7 @@ for c in x:
 
 print (Fore.BLUE + "")
 x = """
-                    ***\\....MamaD RysoN....//***       """
+                 ***\\....MamaD RysoN....//***       """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -92,7 +92,7 @@ for c in x:
 
 print (Fore.BLUE + "")
 x = """
-                    ***\\....MamaD AnasifeR....//***       """
+                ***\\....MamaD AnasifeR....//***       """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -100,7 +100,7 @@ for c in x:
 
 print (Fore.BLUE + "")
 x = """
-                          **....MmD JenA....**     """
+                      **....MmD JenA....**     """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -109,7 +109,7 @@ for c in x:
 
 print (Fore.GREEN + "")
 x = """ 
-                         **....WalteR AlfadeR**"""
+                     **....WalteR AlfadeR**"""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -118,7 +118,7 @@ for c in x:
      
 print (Fore.GREEN + "")
 x = """ 
-                          *....MmD TerroR....*"""
+                      *....MmD TerroR....*"""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -127,7 +127,7 @@ for c in x:
 
 print (Fore.RED + "")
 x = """ 
-                           ....YasiN AlonE...."""
+                       ....YasiN AlonE...."""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -136,7 +136,7 @@ for c in x:
 
 print (Fore.RED + "")
 x = """ 
-                         ....MamaD Entehari...."""
+                     ....MamaD Entehari...."""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -145,7 +145,7 @@ for c in x:
 
 print (Fore.YELLOW + "")
 x = """ 
-                         ....MeysaM TokiyO...."""
+                     ....MeysaM TokiyO...."""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -154,14 +154,14 @@ for c in x:
 
 print (Fore.YELLOW + "")
 x = """ 
-                          ....MG KhataR...."""
+                      ....MG KhataR...."""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
     time.sleep(0.07)
 print (Fore.BLUE + "")
 x = """ 
-                         ....Gost Black Report...."""
+                      ....Gost Black Report...."""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -170,7 +170,7 @@ for c in x:
 
 print (Fore.RED + "")
 x = """ 
-                          ....Bax KaizofiL va Baghie Doostan...."""
+                       ....Bax KaizofiL va Baghie Doostan...."""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
