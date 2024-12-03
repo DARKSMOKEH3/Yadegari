@@ -38,7 +38,7 @@ print("          i Am")
 print(f"{blue} ")
 print (Fore.BLUE + "")
 x = """ 
-                      (...DanieL RysoN...)"""
+                    (...DanieL RysoN...)"""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -59,7 +59,7 @@ x = """ °•°•°•°•°•°•°•°•°•°•°
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.01)
+    time.sleep(0.009)
 
 print (Fore.RED + "")
 x = """
@@ -72,10 +72,10 @@ x = """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
-    time.sleep(0.01)
+    time.sleep(0.009)
 print (Fore.GREEN + "")
 x = """
-                    Be Name Bozorgane refaghat: """
+                  Be Name Bozorgane refaghat: """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -100,7 +100,7 @@ for c in x:
 
 print (Fore.BLUE + "")
 x = """
-                     **....MmD JenA....**     """
+                       **....MmD JenA....**     """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -161,7 +161,7 @@ for c in x:
     time.sleep(0.05)
 print (Fore.BLUE + "")
 x = """ 
-                      ....Gost Black Report...."""
+                     ....Gost Black Report...."""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -170,21 +170,21 @@ for c in x:
 
 print (Fore.RED + "")
 x = """ 
-                       ....Bax KaizofiL va Baghie Doostan...."""
+                ....Bax KaizofiL va Baghie Doostan...."""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
     time.sleep(0.05)
-print (Fore.YELLOW + "")
+print (Fore.GREEN + "")
 time.sleep(1.7)
 print ("           TELEGRAM ID -  @U79_9   ")
-print ("                         telegram Channel : @Daniel_ryson")
+print ("           Telegram Channel : @Daniel_ryson")
 print (Fore.BLUE + "")
 x = """ 
-        ****filteri tah nadare
+        ****Filteri tah nadare**
             Be EdalaT raftaR kon
-            BashaD YadegaRi az HOSSEIN TORI YA DANIEL RYSON... 
-            YA HAGH"""
+       BashaD YadegaRi az HOSSEIN TORI YA DANIEL RYSON... 
+              YA HAGH"""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
