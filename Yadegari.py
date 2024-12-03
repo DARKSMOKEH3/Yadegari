@@ -38,7 +38,7 @@ print("          i Am")
 print(f"{blue} ")
 print (Fore.BLUE + "")
 x = """ 
-                         (...DanieL RysoN...)"""
+                      (...DanieL RysoN...)"""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -100,7 +100,7 @@ for c in x:
 
 print (Fore.BLUE + "")
 x = """
-                      **....MmD JenA....**     """
+                     **....MmD JenA....**     """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -109,7 +109,7 @@ for c in x:
 
 print (Fore.GREEN + "")
 x = """ 
-                     **....WalteR AlfadeR**"""
+                    **....WalteR AlfadeR**"""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -118,7 +118,7 @@ for c in x:
      
 print (Fore.GREEN + "")
 x = """ 
-                      *....MmD TerroR....*"""
+                    *....MmD TerroR....*"""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -127,7 +127,7 @@ for c in x:
 
 print (Fore.RED + "")
 x = """ 
-                       ....YasiN AlonE...."""
+                     ....YasiN AlonE...."""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
