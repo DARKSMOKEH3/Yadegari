@@ -1,7 +1,8 @@
 هعی باشه یادگاری حسین کایزوفیل
 دنیل رایسون همیشگی ...
 برا اجرا
-TermuX
+
+*TermuX
 * apt update
 * apt upgrade 
 * pkg install python 
@@ -11,8 +12,11 @@ TermuX
 
 
 
-LinuX:
+
+*LinuX:
+
 پایتون ۳ رو نصب داشته باشید 
+
 * git clone https://github.com/DanieLRysoN/Yadegari.git
 * cd Yadegari
 * python3 Yadegari.py
