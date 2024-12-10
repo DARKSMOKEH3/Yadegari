@@ -100,7 +100,7 @@ for c in x:
 
 print (Fore.BLUE + "")
 x = """
-                       **....MmD JenA....**     """
+                      ***....ShahzadeH MordegaN....***    """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -109,7 +109,7 @@ for c in x:
 
 print (Fore.GREEN + "")
 x = """ 
-                    **....WalteR AlfadeR**"""
+                    **....WalteR AlfadeR....**"""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -137,15 +137,6 @@ for c in x:
 print (Fore.RED + "")
 x = """ 
                      ....MamaD Entehari...."""
-for c in x:
-    sys.stdout.write(c)
-    sys.stdout.flush()
-    time.sleep(0.05)
-
-
-print (Fore.YELLOW + "")
-x = """ 
-                     ....MeysaM TokiyO...."""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
