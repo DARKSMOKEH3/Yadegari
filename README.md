@@ -1,7 +1,4 @@
-هعی باشه یادگاری حسین کایزوفیل
-دنیل رایسون همیشگی ...
-برا اجرا
-
+Daniel RYSON
 *TermuX
 * apt update
 * apt upgrade 
