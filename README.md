@@ -3,7 +3,7 @@ Daniel RYSON
 * apt update
 * apt upgrade 
 * pkg install python 
-* git clone https://github.com/DanieLRysoN/Yadegari.git
+* git clone https://github.com/DARKSMOKEH3/Yadegari.git
 * cd Yadegari 
 * python Yadegari.py
 
@@ -14,7 +14,7 @@ Daniel RYSON
 
 پایتون ۳ رو نصب داشته باشید 
 
-* git clone https://github.com/DanieLRysoN/Yadegari.git
+* git clone https://github.com/DARKSMOKEH3/Yadegari.git
 * cd Yadegari
 * python3 Yadegari.py
 
